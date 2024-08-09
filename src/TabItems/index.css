@@ -1,0 +1,15 @@
+.tab-item {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.item-btn {
+  background-color: transparent;
+  color: aliceblue;
+  border: none;
+}
+
+.active-item {
+  border-bottom: 1px solid gold;
+  color: gold;
+}
